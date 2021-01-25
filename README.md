@@ -1,5 +1,3 @@
-<h1>This is an Eclipse project!</h1>
-
 Group members:
 1) Aainaa Nabilah binti Rohaizad 	
 2) Elle Aliz binti Aminuddin		
