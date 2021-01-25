@@ -1,4 +1,3 @@
-# DVD-Rental-Management-System
 <h1>This is an Eclipse project!</h1>
 
 Group members:
