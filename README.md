@@ -7,3 +7,5 @@ Group members:
 username : admin
 <br>
 password : password
+
+<img src="https://github.com/supcicak0/DVD-Rental/blob/main/final%20project/Capture.PNG">
